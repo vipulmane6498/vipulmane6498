@@ -1,14 +1,13 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <h1 align="center">Hi 👋, I'm Vipul</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
-https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif
-<img align="right" alt="coding" width="400" src="https://komarev.com/ghpvc/?username=vipulmane6498&label=Profile%20views&color=0e75b6&style=flat" alt="vipulmane6498" /> 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipulmane6498" alt="vipulmane6498" /></a> </p>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **Pizza Ordering**
 
-- 🌱 I’m currently learning **ReactJS**
+
+- 🔭 I’m currently working on **Online Pizza Ordering  website**
+
+- 🌱 I’m currently learning **J2EE & ReactJS**
 
 - 📫 How to reach me **vipulmane6498@gmail.com**
 
