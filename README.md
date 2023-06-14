@@ -7,10 +7,9 @@
 <h3 align="center">🔭 I’m currently working on "Online Pizza Ordering Website"<br>🌱 I’m currently learning "J2EE & ReactJS"<br>🤝 How to reach me vipulmane6498@gmail.com<br></h3>
 
 ##
-<div align="center">
 [![](https://visitcount.itsvg.in/api?id=vipulmane6498&icon=5&color=0)](https://visitcount.itsvg.in)
-</div>
 ##
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vipulmane) 
 
