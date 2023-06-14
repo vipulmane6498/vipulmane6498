@@ -1,7 +1,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <h1 align="center">Hi 👋, I'm Vipul</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h2 align="center">A passionate Full-Stack Developer from India</h2>
 
 
 <h3 align="center">🔭 I’m currently working on "Online Pizza Ordering Website"<br>🌱 I’m currently learning "J2EE & ReactJS"<br>🤝 How to reach me vipulmane6498@gmail.com<br></h3>
