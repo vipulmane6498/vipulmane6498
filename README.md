@@ -27,6 +27,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulmane6498&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vipulmane6498&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=vipulmane6498&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
 </div>
