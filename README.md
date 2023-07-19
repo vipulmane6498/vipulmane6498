@@ -4,7 +4,7 @@
 <h2 align="center">A passionate Full-Stack Developer from India</h2>
 
 
-<h3 >🔭 I’m currently working on "Online Pizza Ordering Website"<br>🌱 I’m currently learning "J2EE & ReactJS"<br>🤝 How to reach me vipulmane6498@gmail.com<br>⛓ Connect with me https://www.linkedin.com/in/vipulmane/</h3>
+<h3 >🔭 I’m currently working on "Online Pizza Ordering Website"<br>🌱 I’m currently looing for opportunity in "Full Stack Development"<br>🤝 How to reach me vipulmane6498@gmail.com<br>⛓ Connect with me https://www.linkedin.com/in/vipulmane/</h3>
 
 ##
 [![](https://visitcount.itsvg.in/api?id=vipulmane6498&icon=5&color=0)](https://visitcount.itsvg.in)
