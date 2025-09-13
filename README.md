@@ -4,7 +4,7 @@
 <h2 align="center">A passionate Full-Stack Developer from India</h2>
 
 
-<h3 >🔭 I’m currently working as a Full Stack Java Developer Intern at RSL Solutions <br>🌱 I’m currently looking for full time opportunity in "Full Stack Development"<br>🤝 How to reach me vipulmane6498@gmail.com<br>⛓ Connect with me https://www.linkedin.com/in/vipulmane/</h3>
+<h3 >🔭 I’m currently working as a Full Stack .NET Developer Intern at RSL Solutions <br>🌱 I’m currently looking for full time opportunity in "Full Stack Development"<br>🤝 How to reach me vipulmane6498@gmail.com<br>⛓ Connect with me https://www.linkedin.com/in/vipulmane/</h3>
 
 
 [![](https://visitcount.itsvg.in/api?id=vipulmane6498&icon=5&color=0)](https://visitcount.itsvg.in)
